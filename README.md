@@ -18,7 +18,11 @@ npm i -g npm@latest
 npm create vite@latest s5 -- --template react-ts
 but then use weakest TS settings possible lol
 
+# tailwind, postcss
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 
+# shadcn
 
 
 ```
