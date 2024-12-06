@@ -3,5 +3,5 @@
 diff -rq src1 src2
 
 # merge directories
-rsync -abviuzP --dry-run --verbose src/ dest/
+rsync -abviuzP --dry-run src/ dest/
 ```
