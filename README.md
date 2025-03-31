@@ -3,6 +3,17 @@
 # ---- devnotes ----
 # 
 
+---- 250330 ----
+npm
+react
+node
+typescript
+shadcdn
+https://nsui.irung.me/
+tailwind
+lucide icons
+supabase
+
 
 ---- 250221 ----
 # flatten files in recursive directories
